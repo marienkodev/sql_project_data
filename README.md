@@ -7,10 +7,12 @@ Git & GitHub: Essential for version control and sharing my SQL scripts and analy
 
 # The Analysis
 
-W trakcie tej przygody znacznie rozszerzyłem swój zestaw narzędzi SQL:
+Throughout this adventure, I've turbocharged my SQL toolkit:
 
-- Tworzenie złożonych zapytań: Opanowanie sztuki zaawansowanego SQL, scalanie tabel jak profesjonalista.
-- Agregacja danych: Przyzwyczaiłem się do GROUP BY i przekształciłem funkcje agregujące, takie jak COUNT() i AVG(), w moich pomocników do podsumowywania danych.
-- Analityczna magia: Podniosłem poziom swoich umiejętności rozwiązywania realnych łamigłówek, zamieniając pytania w wykonalne, wnikliwe zapytania SQL.
+- **Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro.
+- **Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
+- **Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
 
-Ten projekt rozwinął moje umiejętności w zakresie SQL i dostarczył cennych informacji na temat rynku pracy analityków danych. Wyniki analizy stanowią wskazówkę do priorytetyzacji rozwoju umiejętności i działań związanych z poszukiwaniem pracy. Aspirujący analitycy danych mogą lepiej pozycjonować się na konkurencyjnym rynku pracy, koncentrując się na kompetencjach, na które jest duże zapotrzebowanie i które oferują wysokie zarobki. Ta analiza podkreśla wagę ciągłego uczenia się i adaptacji do pojawiających się trendów w dziedzinie analityki danych.
+# Closing Thoughts
+
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
