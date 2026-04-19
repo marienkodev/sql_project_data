@@ -1,4 +1,3 @@
-
 COPY company_dim
 FROM 'C:\Program Files\PostgreSQL\16\company_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
